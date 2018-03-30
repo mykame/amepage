@@ -1,5 +1,30 @@
-body{
-    background-color: antiquewhite;
-    font-family: 'Bungee Shade', cursive;
+html, body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #6A1F29;
+    padding-top: 5px;
+    background-color: antiquewhite
 }
+p{
+    color: #6A1F29;
+}
+h2{
+    color: #6A1F29;
+}
+.navbar{
+    padding: .8rem;
+}
+.btn-primary{
+    background-color: #6A1F29;
+    border: 1px solid #6A1F29;
+}
+.padding{
+    padding-bottom: .2rem;
+}
+.social a {
+    font-size: 4.5em;
+    padding: 3rem;
+    
 
+}
